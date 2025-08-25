@@ -1,5 +1,5 @@
 [
-{
+  {
     "name": "_ga",
     "value": "GA1.1.708800901.1755775250",
     "domain": ".mystudyhub.site",
@@ -7,7 +7,7 @@
   },
   {
     "name": "PHPSESSID",
-    "value": "7fb85987851d856405ec9622e31cebfc",
+    "value": "58fc26d8d8341e4998702ef5600d9e1f",
     "domain": "mystudyhub.site",
     "path": "/"
   },
@@ -19,13 +19,13 @@
   },
   {
     "name": "generate",
-    "value": "KwA3VwfJ2HoWlYLkTqIir0RNWW5ITi9YK0dZNE5rU1dJT21xeDBlV1ZWZ2hIWnNxQTEzbnlxKzR3TkNMcGpQK3ZYcll3ZitDeG10TVMrdXduUEFycENNR0x4SkVyYjdNRzJJTjRYcGFrWjl1Z2t4bUNFQkpNSTk3L1pka2l0S0cxeDBWdzNQL09pQ1JUMnNQ",
+    "value": "MGXqTlrhIP3XS87wkaYANURyVmZORVRGbWdIYlZWQkpna2xpUTZBVnBybHV2VHdKKzh0ejlEZGNrRDBHellIMWtGOHQ0VmVqNTFxL3R0Z3NYcGZEZ0ZzVm15cUk2V3pNUVZ4SWN0SU5jMXVjL25aUUR1K1NRRWd0Y0k5ekhmUERITmRJbkQvMXhXSHNaWGJs",
     "domain": "mystudyhub.site",
     "path": "/"
   },
   {
     "name": "_ga_WT97509YFD",
-    "value": "GS2.1.s1755923449$o4$g0$t1755923449$j60$l0$h0",
+    "value": "GS2.1.s1756138822$o5$g0$t1756138822$j60$l0$h0",
     "domain": ".mystudyhub.site",
     "path": "/"
   }
